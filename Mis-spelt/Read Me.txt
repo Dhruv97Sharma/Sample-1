@@ -1,0 +1,1 @@
+Type the shown word in the given span of time to score as much time as possible in the game.
